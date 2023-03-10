@@ -15,13 +15,17 @@ Aspiring data analysts need to have a strong understanding of how to collect and
 It's a Web Scraping Project using Python and [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#:~:text=Beautiful%20Soup%20is%20a%20Python,hours%20or%20days%20of%20work.), a Python library for pulling data out of HTML and XML files. The goal of the project is to extract Book information from [Audible](https://www.audible.co.uk/),  an American online audiobook and podcast service.
 
 ## Extracted Data information
-Extracted CSV will have total 4 columns.Those are:
-- Job_title	
-- Company	
-- Location
-- Date
+Extracted CSV will have total 8 columns.Those are:
+- Book_name
+- Details_link
+- Author_name
+- Narrated_by
+- Length
+- Release_date
+- Language
+- Rating
 ## Data Sample
-![ALT](https://github.com/Tareq553/Scraping-Project-2/blob/main/Data%20sample%20image.png)
+![ALT](https://github.com/Tareq553/Scraping-Project-1/blob/main/Data%20sample%20image.png)
 
 
 
