@@ -1,410 +1,301 @@
-Book_name,Author_name,Narrated_by,Length,Release_date,Language,Rating,Price
-Spare,Prince Harry The Duke of Sussex,Prince Harry The Duke of Sussex,Length: 15 hrs and 39 mins,"Release date:
+Book_name,Details_link,Author_name,Narrated_by,Length,Release_date,Language,Rating
+Spare,https://www.audible.co.uk//pd/Spare-Audiobook/B0BJ4X9D2F?plink=NLVU4QSBbmLENPJY,Prince Harry The Duke of Sussex,Prince Harry The Duke of Sussex,Length: 15 hrs and 39 mins,"Release date:
                                     01-10-23","Language:
-                                      English","54,680 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $24.95
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-Atomic Habits,James Clear,James Clear,Length: 5 hrs and 35 mins,"Release date:
+                                      English","54,835 ratings"
+Atomic Habits,https://www.audible.co.uk//pd/Atomic-Habits-Audiobook/1524779261?plink=NLVU4QSBbmLENPJY,James Clear,James Clear,Length: 5 hrs and 35 mins,"Release date:
                                     10-16-18","Language:
-                                      English","124,109 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $16.72
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-Lessons in Chemistry,Bonnie Garmus,Miranda Raison,Length: 11 hrs and 55 mins,"Release date:
+                                      English","124,134 ratings"
+Lessons in Chemistry,https://www.audible.co.uk//pd/Lessons-in-Chemistry-Audiobook/0593507533?plink=NLVU4QSBbmLENPJY,Bonnie Garmus,Miranda Raison,Length: 11 hrs and 55 mins,"Release date:
                                     04-05-22","Language:
-                                      English","18,657 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $17.92
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-Daisy Jones & The Six,Taylor Jenkins Reid,Jennifer Beals,Length: 9 hrs and 3 mins,"Release date:
+                                      English","18,694 ratings"
+Daisy Jones & The Six,https://www.audible.co.uk//pd/Daisy-Jones-The-Six-Audiobook/1984845306?plink=NLVU4QSBbmLENPJY,Taylor Jenkins Reid,Jennifer Beals,Length: 9 hrs and 3 mins,"Release date:
                                     03-05-19","Language:
-                                      English","34,811 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $15.74
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-The Last Party,Clare Mackintosh,Chloe Angharad Davies,Length: 13 hrs and 17 mins,"Release date:
-                                    11-08-22","Language:
-                                      English",188 ratings,"[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $18.26
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-Never Finished,David Goggins,David Goggins,Length: 11 hrs and 6 mins,"Release date:
+                                      English","34,844 ratings"
+Never Finished,https://www.audible.co.uk//pd/Never-Finished-Audiobook/B0BJ34FWZ3?plink=NLVU4QSBbmLENPJY,David Goggins,David Goggins,Length: 11 hrs and 6 mins,"Release date:
                                     12-06-22","Language:
-                                      English","21,860 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $21.70
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-It Ends with Us,Colleen Hoover,Olivia Song,Length: 11 hrs and 11 mins,"Release date:
-                                    08-02-16","Language:
-                                      English","63,533 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $13.49
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-I'm Glad My Mom Died,Jennette McCurdy,Jennette McCurdy,Length: 6 hrs and 26 mins,"Release date:
+                                      English","21,885 ratings"
+I'm Glad My Mom Died,https://www.audible.co.uk//pd/Im-Glad-My-Mom-Died-Audiobook/B09VHWHJS2?plink=NLVU4QSBbmLENPJY,Jennette McCurdy,Jennette McCurdy,Length: 6 hrs and 26 mins,"Release date:
                                     08-09-22","Language:
-                                      English","94,356 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $13.99
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-The Subtle Art of Not Giving a F*ck,Mark Manson,Roger Wayne,Length: 5 hrs and 17 mins,"Release date:
-                                    09-13-16","Language:
-                                      English","168,186 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $17.92
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-Someone Else's Shoes,Jojo Moyes,Daisy Ridley,Length: 12 hrs and 21 mins,"Release date:
-                                    02-07-23","Language:
-                                      English","1,261 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $35.00
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-"Harry Potter and the Sorcerer's Stone, Book 1",J.K. Rowling,Jim Dale,Length: 8 hrs and 18 mins,"Release date:
-                                    11-20-15","Language:
-                                      English","184,567 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $29.99
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-Verity,Colleen Hoover,Vanessa Johansson,Length: 8 hrs and 10 mins,"Release date:
-                                    05-07-19","Language:
-                                      English","109,887 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $17.35
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-Remarkably Bright Creatures,Shelby Van Pelt,Marin Ireland,Length: 11 hrs and 16 mins,"Release date:
-                                    05-03-22","Language:
-                                      English","21,805 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $21.42
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-Burner,Mark Greaney,Jay Snyder,Length: 16 hrs and 37 mins,"Release date:
-                                    02-21-23","Language:
-                                      English",960 ratings,"[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $39.95
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-12 Rules for Life,Jordan B. Peterson,Jordan B. Peterson,Length: 15 hrs and 40 mins,"Release date:
-                                    01-23-18","Language:
-                                      English","87,981 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $23.90
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-Can't Hurt Me,David Goggins,David Goggins,Length: 13 hrs and 37 mins,"Release date:
-                                    11-28-18","Language:
-                                      English","190,470 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $21.70
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-A Woman in Time,Bobi Conn,Shannon McManus,Length: 11 hrs and 9 mins,"Release date:
+                                      English","94,392 ratings"
+It Ends with Us,https://www.audible.co.uk//pd/It-Ends-with-Us-Audiobook/B01GGKQVFU?plink=NLVU4QSBbmLENPJY,Colleen Hoover,Olivia Song,Length: 11 hrs and 11 mins,"Release date:
+                                    08-02-16","Language:
+                                      English","63,568 ratings"
+A Woman in Time,https://www.audible.co.uk//pd/A-Woman-in-Time-Audiobook/B09RTJ7KT1?plink=NLVU4QSBbmLENPJY,Bobi Conn,Shannon McManus,Length: 11 hrs and 9 mins,"Release date:
                                     08-30-22","Language:
-                                      English",94 ratings,"[<span class=""bc-text bc-size-base bc-color-base"">
-                    Sale ends in
-                    
- 
-
-  
-<span class=""bc-text bc-text-bold"">
-<span class=""adbl-countdown-timer"" data-duration=""56298232"" data-include-seconds=""true"" data-time-format=""{d}d {h}h {m}m {s}s"" data-time-format-hms=""{h}h {m}m {s}s"" data-time-format-ms=""{m}m {s}s"" data-time-format-s=""{s}s"" data-trim-zeros=""true"" id=""countdown-timer-16""></span>
-</span>
-</span>, <span class=""bc-text bc-size-base bc-color-base"">
-                    Sale <b>has ended</b>
-</span>]"
-It Starts with Us,Colleen Hoover,Colin Donnell,Length: 8 hrs and 41 mins,"Release date:
+                                      English",94 ratings
+The Subtle Art of Not Giving a F*ck,https://www.audible.co.uk//pd/The-Subtle-Art-of-Not-Giving-a-F-ck-Audiobook/B01I28NFEE?plink=NLVU4QSBbmLENPJY,Mark Manson,Roger Wayne,Length: 5 hrs and 17 mins,"Release date:
+                                    09-13-16","Language:
+                                      English","168,194 ratings"
+Someone Else's Shoes,https://www.audible.co.uk//pd/Someone-Elses-Shoes-Audiobook/B0B7XYMQ32?plink=NLVU4QSBbmLENPJY,Jojo Moyes,Daisy Ridley,Length: 12 hrs and 21 mins,"Release date:
+                                    02-07-23","Language:
+                                      English","1,288 ratings"
+"Harry Potter and the Sorcerer's Stone, Book 1",https://www.audible.co.uk//pd/Harry-Potter-and-the-Sorcerers-Stone-Book-1-Audiobook/B017V4IM1G?plink=NLVU4QSBbmLENPJY,J.K. Rowling,Jim Dale,Length: 8 hrs and 18 mins,"Release date:
+                                    11-20-15","Language:
+                                      English","184,581 ratings"
+Remarkably Bright Creatures,https://www.audible.co.uk//pd/Remarkably-Bright-Creatures-Audiobook/B09DTFJ94X?plink=NLVU4QSBbmLENPJY,Shelby Van Pelt,Marin Ireland,Length: 11 hrs and 16 mins,"Release date:
+                                    05-03-22","Language:
+                                      English","21,845 ratings"
+Verity,https://www.audible.co.uk//pd/Verity-Audiobook/B07Q769RZS?plink=NLVU4QSBbmLENPJY,Colleen Hoover,Vanessa Johansson,Length: 8 hrs and 10 mins,"Release date:
+                                    05-07-19","Language:
+                                      English","109,906 ratings"
+It Starts with Us,https://www.audible.co.uk//pd/It-Starts-with-Us-Audiobook/B09SBP7MWN?plink=NLVU4QSBbmLENPJY,Colleen Hoover,Colin Donnell,Length: 8 hrs and 41 mins,"Release date:
                                     10-18-22","Language:
-                                      English","28,302 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $23.62
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-Demon Copperhead,Barbara Kingsolver,Charlie Thurston,Length: 21 hrs and 3 mins,"Release date:
+                                      English","28,318 ratings"
+12 Rules for Life,https://www.audible.co.uk//pd/12-Rules-for-Life-Audiobook/B0797YBP7N?plink=NLVU4QSBbmLENPJY,Jordan B. Peterson,Jordan B. Peterson,Length: 15 hrs and 40 mins,"Release date:
+                                    01-23-18","Language:
+                                      English","87,993 ratings"
+Can't Hurt Me,https://www.audible.co.uk//pd/Cant-Hurt-Me-Audiobook/B07KKMNZCH?plink=NLVU4QSBbmLENPJY,David Goggins,David Goggins,Length: 13 hrs and 37 mins,"Release date:
+                                    11-28-18","Language:
+                                      English","190,489 ratings"
+Demon Copperhead,https://www.audible.co.uk//pd/Demon-Copperhead-Audiobook/B09QH6P7X4?plink=NLVU4QSBbmLENPJY,Barbara Kingsolver,Charlie Thurston,Length: 21 hrs and 3 mins,"Release date:
                                     10-18-22","Language:
-                                      English","9,603 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $34.90
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-Greenlights,Matthew McConaughey,Matthew McConaughey,Length: 6 hrs and 42 mins,"Release date:
-                                    10-20-20","Language:
-                                      English","163,538 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $18.49
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-The Light We Carry,Michelle Obama,Michelle Obama,Length: 9 hrs and 59 mins,"Release date:
-                                    11-15-22","Language:
-                                      English","8,294 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $35.00
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-8 Rules of Love,Jay Shetty,Jay Shetty,Length: 10 hrs and 11 mins,"Release date:
+                                      English","9,629 ratings"
+Burner,https://www.audible.co.uk//pd/Burner-Audiobook/B0B6CWW9MF?plink=NLVU4QSBbmLENPJY,Mark Greaney,Jay Snyder,Length: 16 hrs and 37 mins,"Release date:
+                                    02-21-23","Language:
+                                      English","1,006 ratings"
+8 Rules of Love,https://www.audible.co.uk//pd/8-Rules-of-Love-Audiobook/B0BBS752S1?plink=NLVU4QSBbmLENPJY,Jay Shetty,Jay Shetty,Length: 10 hrs and 11 mins,"Release date:
                                     01-31-23","Language:
-                                      English",257 ratings,"[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $23.62
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-Fairy Tale,Stephen King,Seth Numrich,Length: 24 hrs and 6 mins,"Release date:
+                                      English",264 ratings
+Fairy Tale,https://www.audible.co.uk//pd/Fairy-Tale-Audiobook/B09R62PV4B?plink=NLVU4QSBbmLENPJY,Stephen King,Seth Numrich,Length: 24 hrs and 6 mins,"Release date:
                                     09-06-22","Language:
-                                      English","60,796 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $26.90
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-"Harry Potter and the Chamber of Secrets, Book 2",J.K. Rowling,Jim Dale,Length: 9 hrs and 2 mins,"Release date:
-                                    11-20-15","Language:
-                                      English","128,957 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $29.99
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Alma Cuervo,Length: 12 hrs and 10 mins,"Release date:
-                                    06-13-17","Language:
-                                      English","76,216 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $16.72
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-The Body Keeps the Score,Bessel A. van der Kolk,Sean Pratt,Length: 16 hrs and 15 mins,"Release date:
-                                    02-16-21","Language:
-                                      English","9,075 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $20.42
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-Finding Me,Viola Davis,Viola Davis,Length: 9 hrs and 15 mins,"Release date:
-                                    04-26-22","Language:
-                                      English","31,795 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $21.42
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-"Harry Potter and the Prisoner of Azkaban, Book 3",J.K. Rowling,Jim Dale,Length: 11 hrs and 49 mins,"Release date:
-                                    11-20-15","Language:
-                                      English","118,817 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $29.99
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-How to Win Friends & Influence People,Dale Carnegie,Andrew MacMillan,Length: 7 hrs and 15 mins,"Release date:
-                                    09-16-04","Language:
-                                      English","96,760 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $16.72
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-Haunting Adeline,H. D. Carlton,Teddy Hamilton,Length: 15 hrs and 44 mins,"Release date:
-                                    08-29-22","Language:
-                                      English","3,953 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $21.70
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-All My Knotted-Up Life,Beth Moore,Beth Moore,Length: 8 hrs and 29 mins,"Release date:
-                                    02-21-23","Language:
-                                      English",359 ratings,"[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $15.19
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-"Harry Potter and the Goblet of Fire, Book 4",J.K. Rowling,Jim Dale,Length: 20 hrs and 36 mins,"Release date:
-                                    11-20-15","Language:
-                                      English","114,164 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $44.99
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-A Court of Thorns and Roses,Sarah J. Maas,Jennifer Ikeda,Length: 16 hrs and 7 mins,"Release date:
-                                    05-05-15","Language:
-                                      English","35,187 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $27.39
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-"Tomorrow, and Tomorrow, and Tomorrow",Gabrielle Zevin,Jennifer Kim,Length: 13 hrs and 52 mins,"Release date:
-                                    07-05-22","Language:
-                                      English","7,894 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $17.92
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-Mad Honey,Jodi Picoult,Carrie Coon,Length: 15 hrs and 12 mins,"Release date:
-                                    10-04-22","Language:
-                                      English","8,418 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $23.90
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-The Courage to Be Free,Ron DeSantis,Ron DeSantis,Length: 8 hrs and 59 mins,"Release date:
-                                    02-28-23","Language:
-                                      English",116 ratings,"[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $31.93
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-I Have Some Questions for You,Rebecca Makkai,Julia Whelan,Length: 14 hrs and 4 mins,"Release date:
-                                    02-21-23","Language:
-                                      English",162 ratings,"[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $31.50
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-"Harry Potter and the Order of the Phoenix, Book 5",J.K. Rowling,Jim Dale,Length: 26 hrs and 28 mins,"Release date:
-                                    11-20-15","Language:
-                                      English","106,053 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $44.99
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-Things We Hide from the Light,Lucy Score,Lila Winters,Length: 17 hrs and 36 mins,"Release date:
-                                    02-21-23","Language:
-                                      English",354 ratings,"[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $21.70
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-Never Split the Difference,Chris Voss,Michael Kramer,Length: 8 hrs and 7 mins,"Release date:
-                                    05-17-16","Language:
-                                      English","61,417 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $23.90
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-"Harry Potter and the Half-Blood Prince, Book 6",J.K. Rowling,Jim Dale,Length: 18 hrs and 32 mins,"Release date:
-                                    11-20-15","Language:
-                                      English","99,610 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $44.99
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-The Nightingale,Kristin Hannah,Polly Stone,Length: 17 hrs and 19 mins,"Release date:
-                                    02-03-15","Language:
-                                      English","88,503 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $25.90
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-The Housemaid,Freida McFadden,Lauryn Allman,Length: 9 hrs and 46 mins,"Release date:
-                                    04-26-22","Language:
-                                      English","9,410 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $17.35
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-The Midwife of Auschwitz,Anna Stuart,Sophie Aldred,Length: 11 hrs and 42 mins,"Release date:
-                                    05-31-22","Language:
-                                      English",167 ratings,"[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $21.70
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-Unfu*k Yourself,Gary John Bishop,Gary John Bishop,Length: 3 hrs and 24 mins,"Release date:
-                                    08-01-17","Language:
-                                      English","83,031 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $14.49
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-Project Hail Mary,Andy Weir,Ray Porter,Length: 16 hrs and 10 mins,"Release date:
+                                      English","60,859 ratings"
+Greenlights,https://www.audible.co.uk//pd/Greenlights-Audiobook/0593294181?plink=VQnzOIaW6dVsmWKP,Matthew McConaughey,Matthew McConaughey,Length: 6 hrs and 42 mins,"Release date:
+                                    10-20-20","Language:
+                                      English","163,560 ratings"
+The Last Thing He Told Me,https://www.audible.co.uk//pd/The-Last-Thing-He-Told-Me-Audiobook/179712319X?plink=VQnzOIaW6dVsmWKP,Laura Dave,Rebecca Lowman,Length: 8 hrs and 49 mins,"Release date:
                                     05-04-21","Language:
-                                      English","152,708 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $26.05
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-The Quarry Girls,Jess Lourey,Jess Nahikian,Length: 10 hrs and 2 mins,"Release date:
-                                    11-01-22","Language:
-                                      English","3,210 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $26.17
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-Extreme Ownership,Jocko Willink,Jocko Willink,Length: 9 hrs and 33 mins,"Release date:
-                                    10-19-15","Language:
-                                      English","72,515 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $15.22
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-A Court of Mist and Fury,Sarah J. Maas,Jennifer Ikeda,Length: 23 hrs and 16 mins,"Release date:
-                                    05-03-16","Language:
-                                      English","29,215 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $36.53
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-The Mountain Is You,Brianna Wiest,Stacey Glemboski,Length: 5 hrs and 44 mins,"Release date:
-                                    04-01-22","Language:
-                                      English","3,662 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $17.35
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-Win Every Argument,Mehdi Hasan,Mehdi Hasan,Length: 8 hrs and 12 mins,"Release date:
-                                    02-28-23","Language:
-                                      English",12 ratings,"[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $18.89
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-"Harry Potter and the Deathly Hallows, Book 7",J.K. Rowling,Jim Dale,Length: 21 hrs and 36 mins,"Release date:
+                                      English","52,324 ratings"
+The Seven Husbands of Evelyn Hugo,https://www.audible.co.uk//pd/The-Seven-Husbands-of-Evelyn-Hugo-Audiobook/B072359S7K?plink=VQnzOIaW6dVsmWKP,Taylor Jenkins Reid,Alma Cuervo,Length: 12 hrs and 10 mins,"Release date:
+                                    06-13-17","Language:
+                                      English","76,236 ratings"
+"Harry Potter and the Chamber of Secrets, Book 2",https://www.audible.co.uk//pd/Harry-Potter-and-the-Chamber-of-Secrets-Book-2-Audiobook/B017V4IWVG?plink=VQnzOIaW6dVsmWKP,J.K. Rowling,Jim Dale,Length: 9 hrs and 2 mins,"Release date:
                                     11-20-15","Language:
-                                      English","139,245 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $44.99
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-Storm Watch,C. J. Box,David Chandler,Length: 9 hrs and 4 mins,"Release date:
-                                    02-28-23","Language:
-                                      English",172 ratings,"[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $24.49
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-The Creative Act,Rick Rubin,Rick Rubin,Length: 5 hrs and 45 mins,"Release date:
-                                    01-17-23","Language:
-                                      English","1,017 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $31.50
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-Young Forever,Dr. Mark Hyman MD,Dr. Mark Hyman MD,Length: 9 hrs and 28 mins,"Release date:
+                                      English","128,970 ratings"
+A Court of Thorns and Roses,https://www.audible.co.uk//pd/A-Court-of-Thorns-and-Roses-Audiobook/B00WRHY15Y?plink=VQnzOIaW6dVsmWKP,Sarah J. Maas,Jennifer Ikeda,Length: 16 hrs and 7 mins,"Release date:
+                                    05-05-15","Language:
+                                      English","35,202 ratings"
+The Light We Carry,https://www.audible.co.uk//pd/The-Light-We-Carry-Audiobook/B0B5FP7Z48?plink=VQnzOIaW6dVsmWKP,Michelle Obama,Michelle Obama,Length: 9 hrs and 59 mins,"Release date:
+                                    11-15-22","Language:
+                                      English","8,307 ratings"
+The Body Keeps the Score,https://www.audible.co.uk//pd/The-Body-Keeps-the-Score-Audiobook/0593412702?plink=VQnzOIaW6dVsmWKP,Bessel A. van der Kolk,Sean Pratt,Length: 16 hrs and 15 mins,"Release date:
+                                    02-16-21","Language:
+                                      English","9,077 ratings"
+"Harry Potter and the Prisoner of Azkaban, Book 3",https://www.audible.co.uk//pd/Harry-Potter-and-the-Prisoner-of-Azkaban-Book-3-Audiobook/B017V4JA2Q?plink=VQnzOIaW6dVsmWKP,J.K. Rowling,Jim Dale,Length: 11 hrs and 49 mins,"Release date:
+                                    11-20-15","Language:
+                                      English","118,827 ratings"
+Finding Me,https://www.audible.co.uk//pd/Finding-Me-Audiobook/B09F4X96MC?plink=VQnzOIaW6dVsmWKP,Viola Davis,Viola Davis,Length: 9 hrs and 15 mins,"Release date:
+                                    04-26-22","Language:
+                                      English","31,834 ratings"
+"Tomorrow, and Tomorrow, and Tomorrow",https://www.audible.co.uk//pd/Tomorrow-and-Tomorrow-and-Tomorrow-Audiobook/B09KD2RJ5H?plink=VQnzOIaW6dVsmWKP,Gabrielle Zevin,Jennifer Kim,Length: 13 hrs and 52 mins,"Release date:
+                                    07-05-22","Language:
+                                      English","7,910 ratings"
+All My Knotted-Up Life,https://www.audible.co.uk//pd/All-My-Knotted-Up-Life-Audiobook/B0BPBCW1DV?plink=VQnzOIaW6dVsmWKP,Beth Moore,Beth Moore,Length: 8 hrs and 29 mins,"Release date:
                                     02-21-23","Language:
-                                      English",41 ratings,"[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $31.93
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-Things We Never Got Over,Lucy Score,Lila Winters,Length: 16 hrs and 1 min,"Release date:
+                                      English",376 ratings
+"Harry Potter and the Goblet of Fire, Book 4",https://www.audible.co.uk//pd/Harry-Potter-and-the-Goblet-of-Fire-Book-4-Audiobook/B017V4NUPO?plink=VQnzOIaW6dVsmWKP,J.K. Rowling,Jim Dale,Length: 20 hrs and 36 mins,"Release date:
+                                    11-20-15","Language:
+                                      English","114,177 ratings"
+How to Win Friends & Influence People,https://www.audible.co.uk//pd/How-to-Win-Friends-Influence-People-Audiobook/B002V5BV96?plink=VQnzOIaW6dVsmWKP,Dale Carnegie,Andrew MacMillan,Length: 7 hrs and 15 mins,"Release date:
+                                    09-16-04","Language:
+                                      English","96,764 ratings"
+Mad Honey,https://www.audible.co.uk//pd/Mad-Honey-Audiobook/B09QQVK1QV?plink=VQnzOIaW6dVsmWKP,Jodi Picoult,Carrie Coon,Length: 15 hrs and 12 mins,"Release date:
+                                    10-04-22","Language:
+                                      English","8,428 ratings"
+Haunting Adeline,https://www.audible.co.uk//pd/Haunting-Adeline-Audiobook/B0BC9TQVCY?plink=VQnzOIaW6dVsmWKP,H. D. Carlton,Teddy Hamilton,Length: 15 hrs and 44 mins,"Release date:
+                                    08-29-22","Language:
+                                      English","3,963 ratings"
+The Last Party,https://www.audible.co.uk//pd/The-Last-Party-Audiobook/B0BF2HBPH5?plink=VQnzOIaW6dVsmWKP,Clare Mackintosh,Chloe Angharad Davies,Length: 13 hrs and 17 mins,"Release date:
+                                    11-08-22","Language:
+                                      English",192 ratings
+"Harry Potter and the Order of the Phoenix, Book 5",https://www.audible.co.uk//pd/Harry-Potter-and-the-Order-of-the-Phoenix-Book-5-Audiobook/B017V4NMX4?plink=VQnzOIaW6dVsmWKP,J.K. Rowling,Jim Dale,Length: 26 hrs and 28 mins,"Release date:
+                                    11-20-15","Language:
+                                      English","106,067 ratings"
+The Courage to Be Free,https://www.audible.co.uk//pd/The-Courage-to-Be-Free-Audiobook/B0BGT666C5?plink=VQnzOIaW6dVsmWKP,Ron DeSantis,Ron DeSantis,Length: 8 hrs and 59 mins,"Release date:
+                                    02-28-23","Language:
+                                      English",125 ratings
+I Have Some Questions for You,https://www.audible.co.uk//pd/I-Have-Some-Questions-for-You-Audiobook/B0B6227QG6?plink=VQnzOIaW6dVsmWKP,Rebecca Makkai,Julia Whelan,Length: 14 hrs and 4 mins,"Release date:
+                                    02-21-23","Language:
+                                      English",175 ratings
+Things We Hide from the Light,https://www.audible.co.uk//pd/Things-We-Hide-from-the-Light-Audiobook/B0BSLV93M7?plink=VQnzOIaW6dVsmWKP,Lucy Score,Lila Winters,Length: 17 hrs and 36 mins,"Release date:
+                                    02-21-23","Language:
+                                      English",369 ratings
+The Housemaid,https://www.audible.co.uk//pd/The-Housemaid-Audiobook/B09XRH26TS?plink=raXQ1R9pRNsCvvqG,Freida McFadden,Lauryn Allman,Length: 9 hrs and 46 mins,"Release date:
+                                    04-26-22","Language:
+                                      English","9,422 ratings"
+A Court of Mist and Fury,https://www.audible.co.uk//pd/A-Court-of-Mist-and-Fury-Audiobook/B01DYO4QRQ?plink=raXQ1R9pRNsCvvqG,Sarah J. Maas,Jennifer Ikeda,Length: 23 hrs and 16 mins,"Release date:
+                                    05-03-16","Language:
+                                      English","29,225 ratings"
+"Harry Potter and the Half-Blood Prince, Book 6",https://www.audible.co.uk//pd/Harry-Potter-and-the-Half-Blood-Prince-Book-6-Audiobook/B017V4NOZ0?plink=raXQ1R9pRNsCvvqG,J.K. Rowling,Jim Dale,Length: 18 hrs and 32 mins,"Release date:
+                                    11-20-15","Language:
+                                      English","99,621 ratings"
+Project Hail Mary,https://www.audible.co.uk//pd/Project-Hail-Mary-Audiobook/B08G9PRS1K?plink=raXQ1R9pRNsCvvqG,Andy Weir,Ray Porter,Length: 16 hrs and 10 mins,"Release date:
+                                    05-04-21","Language:
+                                      English","152,747 ratings"
+Storm Watch,https://www.audible.co.uk//pd/Storm-Watch-Audiobook/B0BP9JWY9R?plink=raXQ1R9pRNsCvvqG,C. J. Box,David Chandler,Length: 9 hrs and 4 mins,"Release date:
+                                    02-28-23","Language:
+                                      English",190 ratings
+Never Split the Difference,https://www.audible.co.uk//pd/Never-Split-the-Difference-Audiobook/B01CF5O89G?plink=raXQ1R9pRNsCvvqG,Chris Voss,Michael Kramer,Length: 8 hrs and 7 mins,"Release date:
+                                    05-17-16","Language:
+                                      English","61,420 ratings"
+Unfu*k Yourself,https://www.audible.co.uk//pd/Unfu-k-Yourself-Audiobook/B0731R4RFX?plink=raXQ1R9pRNsCvvqG,Gary John Bishop,Gary John Bishop,Length: 3 hrs and 24 mins,"Release date:
+                                    08-01-17","Language:
+                                      English","83,036 ratings"
+The Midwife of Auschwitz,https://www.audible.co.uk//pd/The-Midwife-of-Auschwitz-Audiobook/B0B192PYTJ?plink=raXQ1R9pRNsCvvqG,Anna Stuart,Sophie Aldred,Length: 11 hrs and 42 mins,"Release date:
+                                    05-31-22","Language:
+                                      English",171 ratings
+"Harry Potter and the Deathly Hallows, Book 7",https://www.audible.co.uk//pd/Harry-Potter-and-the-Deathly-Hallows-Book-7-Audiobook/B017WJ5ZK6?plink=raXQ1R9pRNsCvvqG,J.K. Rowling,Jim Dale,Length: 21 hrs and 36 mins,"Release date:
+                                    11-20-15","Language:
+                                      English","139,256 ratings"
+Extreme Ownership,https://www.audible.co.uk//pd/Extreme-Ownership-Audiobook/B015TVHUA2?plink=raXQ1R9pRNsCvvqG,Jocko Willink,Jocko Willink,Length: 9 hrs and 33 mins,"Release date:
+                                    10-19-15","Language:
+                                      English","72,521 ratings"
+The Nightingale,https://www.audible.co.uk//pd/The-Nightingale-Audiobook/B00NYBQKFQ?plink=raXQ1R9pRNsCvvqG,Kristin Hannah,Polly Stone,Length: 17 hrs and 19 mins,"Release date:
+                                    02-03-15","Language:
+                                      English","88,515 ratings"
+The Creative Act,https://www.audible.co.uk//pd/The-Creative-Act-Audiobook/B0B3L2T9W5?plink=raXQ1R9pRNsCvvqG,Rick Rubin,Rick Rubin,Length: 5 hrs and 45 mins,"Release date:
+                                    01-17-23","Language:
+                                      English","1,021 ratings"
+Things We Never Got Over,https://www.audible.co.uk//pd/Things-We-Never-Got-Over-Audiobook/B09TPXT3BT?plink=raXQ1R9pRNsCvvqG,Lucy Score,Lila Winters,Length: 16 hrs and 1 min,"Release date:
                                     03-01-22","Language:
-                                      English","8,857 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $21.70
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-The Four Agreements,don Miguel Ruiz,Peter Coyote,Length: 2 hrs and 31 mins,"Release date:
+                                      English","8,867 ratings"
+The Mountain Is You,https://www.audible.co.uk//pd/The-Mountain-Is-You-Audiobook/B09WY6Z8KD?plink=raXQ1R9pRNsCvvqG,Brianna Wiest,Stacey Glemboski,Length: 5 hrs and 44 mins,"Release date:
+                                    04-01-22","Language:
+                                      English","3,668 ratings"
+The Four Agreements,https://www.audible.co.uk//pd/The-Four-Agreements-Audiobook/B002VA3GJO?plink=raXQ1R9pRNsCvvqG,don Miguel Ruiz,Peter Coyote,Length: 2 hrs and 31 mins,"Release date:
                                     01-27-05","Language:
-                                      English","54,302 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $10.93
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-Unmask Alice,Rick Emerson,Gabra Zackman,Length: 9 hrs and 50 mins,"Release date:
-                                    04-12-22","Language:
-                                      English",257 ratings,"[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $17.35
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-Breaking the Habit of Being Yourself,Joe Dispenza,Adam Boyce,Length: 10 hrs and 49 mins,"Release date:
-                                    03-26-20","Language:
-                                      English","4,066 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $21.70
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-The Psychology of Money,Morgan Housel,Chris Hill,Length: 5 hrs and 48 mins,"Release date:
-                                    09-08-20","Language:
-                                      English","16,656 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $17.35
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-"Right Man, Right Time",Meghan Quinn,Jason Clarke,Length: 12 hrs and 39 mins,"Release date:
-                                    03-07-23","Language:
-                                      English",37 ratings,"[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $24.95
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-The Silent Patient,Alex Michaelides,Jack Hawkins,Length: 8 hrs and 51 mins,"Release date:
-                                    02-05-19","Language:
-                                      English","71,863 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $20.90
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-The Gray Man,Mark Greaney,Jay Snyder,Length: 11 hrs and 11 mins,"Release date:
-                                    08-30-10","Language:
-                                      English","22,122 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $21.70
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-Where the Crawdads Sing,Delia Owens,Cassandra Campbell,Length: 12 hrs and 12 mins,"Release date:
-                                    08-14-18","Language:
-                                      English","291,707 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $17.92
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-A Court of Wings and Ruin,Sarah J. Maas,Amanda Leigh Cobb,Length: 25 hrs and 9 mins,"Release date:
+                                      English","54,305 ratings"
+A Court of Wings and Ruin,https://www.audible.co.uk//pd/A-Court-of-Wings-and-Ruin-Audiobook/B072BFQF1N?plink=raXQ1R9pRNsCvvqG,Sarah J. Maas,Amanda Leigh Cobb,Length: 25 hrs and 9 mins,"Release date:
                                     05-02-17","Language:
-                                      English","22,357 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $27.39
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-Think and Grow Rich,Napoleon Hill,Erik Synnestvedt,Length: 9 hrs and 35 mins,"Release date:
-                                    10-16-07","Language:
-                                      English","30,384 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $24.95
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-The Housemaid's Secret,Freida McFadden,Lauryn Allman,Length: 9 hrs and 44 mins,"Release date:
-                                    02-20-23","Language:
-                                      English",404 ratings,"[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $17.35
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-Rich Dad Poor Dad: 20th Anniversary Edition,Robert T. Kiyosaki,Tom Parks,Length: 8 hrs and 22 mins,"Release date:
-                                    05-14-19","Language:
-                                      English","15,283 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $11.30
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-The Hunger Games: Special Edition,Suzanne Collins,Tatiana Maslany,Length: 10 hrs and 35 mins,"Release date:
+                                      English","22,367 ratings"
+Young Forever,https://www.audible.co.uk//pd/Young-Forever-Audiobook/B0B84BTT1X?plink=raXQ1R9pRNsCvvqG,Dr. Mark Hyman MD,Dr. Mark Hyman MD,Length: 9 hrs and 28 mins,"Release date:
+                                    02-21-23","Language:
+                                      English",44 ratings
+The Psychology of Money,https://www.audible.co.uk//pd/The-Psychology-of-Money-Audiobook/B08D9TXF3H?plink=raXQ1R9pRNsCvvqG,Morgan Housel,Chris Hill,Length: 5 hrs and 48 mins,"Release date:
+                                    09-08-20","Language:
+                                      English","16,661 ratings"
+The Silent Patient,https://www.audible.co.uk//pd/The-Silent-Patient-Audiobook/1250317533?plink=raXQ1R9pRNsCvvqG,Alex Michaelides,Jack Hawkins,Length: 8 hrs and 51 mins,"Release date:
+                                    02-05-19","Language:
+                                      English","71,870 ratings"
+The Hunger Games: Special Edition,https://www.audible.co.uk//pd/The-Hunger-Games-Special-Edition-Audiobook/B07HHH7L77?plink=raXQ1R9pRNsCvvqG,Suzanne Collins,Tatiana Maslany,Length: 10 hrs and 35 mins,"Release date:
                                     10-30-18","Language:
-                                      English","10,861 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $14.74
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-Hábitos atómicos,James Clear,Arturock,Length: 9 hrs and 1 min,"Release date:
-                                    09-30-20","Language:
-                                      Spanish","1,605 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $18.67
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-The City of Singles,Ngoc Dinh,Abdullah Fahim,Length: 2 hrs and 1 min,"Release date:
-                                    03-02-23","Language:
-                                      English",Not rated yet,"[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $6.95
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-Atlas of the Heart,Brené Brown,Brené Brown,Length: 8 hrs and 29 mins,"Release date:
-                                    02-14-22","Language:
-                                      English","15,349 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $23.90
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-The Chronicles of Narnia Complete Audio Collection,C. S. Lewis,Kenneth Branagh,Length: 33 hrs and 45 mins,"Release date:
+                                      English","10,863 ratings"
+The Chronicles of Narnia Complete Audio Collection,https://www.audible.co.uk//pd/The-Chronicles-of-Narnia-Adult-Box-Set-Audiobook/0061999881?plink=raXQ1R9pRNsCvvqG,C. S. Lewis,Kenneth Branagh,Length: 33 hrs and 45 mins,"Release date:
                                     12-27-19","Language:
-                                      English","13,395 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $47.90
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-Stolen Youth,Karol Markowicz,Maggie Richardson,Length: 9 hrs and 5 mins,"Release date:
+                                      English","13,399 ratings"
+The Gray Man,https://www.audible.co.uk//pd/The-Gray-Man-Audiobook/B003UNYZ7I?plink=raXQ1R9pRNsCvvqG,Mark Greaney,Jay Snyder,Length: 11 hrs and 11 mins,"Release date:
+                                    08-30-10","Language:
+                                      English","22,131 ratings"
+"Right Man, Right Time",https://www.audible.co.uk//pd/Right-Man-Right-Time-Audiobook/B0BWNVQ9FM?plink=raXQ1R9pRNsCvvqG,Meghan Quinn,Jason Clarke,Length: 12 hrs and 39 mins,"Release date:
                                     03-07-23","Language:
-                                      English",Not rated yet,"[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $19.95
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-Local Woman Missing,Mary Kubica,Brittany Pressley,Length: 11 hrs and 40 mins,"Release date:
+                                      English",50 ratings
+Breaking the Habit of Being Yourself,https://www.audible.co.uk//pd/Breaking-the-Habit-of-Being-Yourself-Audiobook/B0868ZFF7X?plink=raXQ1R9pRNsCvvqG,Joe Dispenza,Adam Boyce,Length: 10 hrs and 49 mins,"Release date:
+                                    03-26-20","Language:
+                                      English","4,066 ratings"
+Think and Grow Rich,https://www.audible.co.uk//pd/Think-and-Grow-Rich-Audiobook/B002V5D950?plink=raXQ1R9pRNsCvvqG,Napoleon Hill,Erik Synnestvedt,Length: 9 hrs and 35 mins,"Release date:
+                                    10-16-07","Language:
+                                      English","30,388 ratings"
+The Quarry Girls,https://www.audible.co.uk//pd/The-Quarry-Girls-Audiobook/B09QDWLRYB?plink=raXQ1R9pRNsCvvqG,Jess Lourey,Jess Nahikian,Length: 10 hrs and 2 mins,"Release date:
+                                    11-01-22","Language:
+                                      English","3,224 ratings"
+Where the Crawdads Sing,https://www.audible.co.uk//pd/Where-the-Crawdads-Sing-Audiobook/B07FSNSLZ1?plink=raXQ1R9pRNsCvvqG,Delia Owens,Cassandra Campbell,Length: 12 hrs and 12 mins,"Release date:
+                                    08-14-18","Language:
+                                      English","291,725 ratings"
+Win Every Argument,https://www.audible.co.uk//pd/Win-Every-Argument-Audiobook/B0B64FSPXV?plink=raXQ1R9pRNsCvvqG,Mehdi Hasan,Mehdi Hasan,Length: 8 hrs and 12 mins,"Release date:
+                                    02-28-23","Language:
+                                      English",13 ratings
+The Housemaid's Secret,https://www.audible.co.uk//pd/The-Housemaids-Secret-Audiobook/B0BSVGL75P?plink=raXQ1R9pRNsCvvqG,Freida McFadden,Lauryn Allman,Length: 9 hrs and 44 mins,"Release date:
+                                    02-20-23","Language:
+                                      English",414 ratings
+Rich Dad Poor Dad: 20th Anniversary Edition,https://www.audible.co.uk//pd/Rich-Dad-Poor-Dad-20th-Anniversary-Edition-Audiobook/197869167X?plink=raXQ1R9pRNsCvvqG,Robert T. Kiyosaki,Tom Parks,Length: 8 hrs and 22 mins,"Release date:
+                                    05-14-19","Language:
+                                      English","15,286 ratings"
+Local Woman Missing,https://www.audible.co.uk//pd/Local-Woman-Missing-Audiobook/1488211698?plink=raXQ1R9pRNsCvvqG,Mary Kubica,Brittany Pressley,Length: 11 hrs and 40 mins,"Release date:
                                     05-18-21","Language:
-                                      English","26,406 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $15.44
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-Becoming,Michelle Obama,Michelle Obama,Length: 19 hrs and 3 mins,"Release date:
-                                    11-13-18","Language:
-                                      English","179,707 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $23.90
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-A Most Intriguing Lady,Sarah Ferguson,Sarah Ferguson,Length: 12 hrs and 17 mins,"Release date:
-                                    03-07-23","Language:
-                                      English",1 rating,"[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $31.93
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-What Happened to You?,Oprah Winfrey,Bruce D. Perry,Length: 8 hrs and 27 mins,"Release date:
-                                    04-27-21","Language:
-                                      English","19,880 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $15.49
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-The 7 Habits of Highly Effective People,Stephen R. Covey,Stephen R. Covey,Length: 13 hrs and 4 mins,"Release date:
+                                      English","26,412 ratings"
+Atlas of the Heart,https://www.audible.co.uk//pd/Atlas-of-the-Heart-Audiobook/1984844261?plink=raXQ1R9pRNsCvvqG,Brené Brown,Brené Brown,Length: 8 hrs and 29 mins,"Release date:
+                                    02-14-22","Language:
+                                      English","15,353 ratings"
+Hábitos atómicos,https://www.audible.co.uk//pd/Habitos-atomicos-Audiobook/6077477206?plink=raXQ1R9pRNsCvvqG,James Clear,Arturock,Length: 9 hrs and 1 min,"Release date:
+                                    09-30-20","Language:
+                                      Spanish","1,605 ratings"
+Dune,https://www.audible.co.uk//pd/Dune-Audiobook/B002V1OF70?plink=raXQ1R9pRNsCvvqG,Frank Herbert,Scott Brick,Length: 21 hrs and 2 mins,"Release date:
+                                    12-31-06","Language:
+                                      English","113,132 ratings"
+A Court of Silver Flames,https://www.audible.co.uk//pd/A-Court-of-Silver-Flames-Audiobook/1980085722?plink=raXQ1R9pRNsCvvqG,Sarah J. Maas,Stina Nielsen,Length: 26 hrs and 5 mins,"Release date:
+                                    02-16-21","Language:
+                                      English","16,654 ratings"
+The Boys from Biloxi,https://www.audible.co.uk//pd/The-Boys-from-Biloxi-Audiobook/B09ZMX3NJ2?plink=raXQ1R9pRNsCvvqG,John Grisham,Michael Beck,Length: 17 hrs and 22 mins,"Release date:
+                                    10-18-22","Language:
+                                      English","9,597 ratings"
+The 7 Habits of Highly Effective People,https://www.audible.co.uk//pd/The-7-Habits-of-Highly-Effective-People-Audiobook/B002V5HAL4?plink=raXQ1R9pRNsCvvqG,Stephen R. Covey,Stephen R. Covey,Length: 13 hrs and 4 mins,"Release date:
                                     12-28-03","Language:
-                                      English","38,831 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $16.95
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
-The Alchemist,Paulo Coelho,Jeremy Irons,Length: 4 hrs,"Release date:
+                                      English","38,833 ratings"
+What Happened to You?,https://www.audible.co.uk//pd/What-Happened-to-You-Audiobook/1250260639?plink=raXQ1R9pRNsCvvqG,Oprah Winfrey,Bruce D. Perry,Length: 8 hrs and 27 mins,"Release date:
+                                    04-27-21","Language:
+                                      English","19,883 ratings"
+The Way of Kings,https://www.audible.co.uk//pd/The-Way-of-Kings-Audiobook/B003ZWFO7E?plink=raXQ1R9pRNsCvvqG,Brandon Sanderson,Kate Reading,Length: 45 hrs and 30 mins,"Release date:
+                                    08-31-10","Language:
+                                      English","97,304 ratings"
+The Maid,https://www.audible.co.uk//pd/The-Maid-Audiobook/B09FYKPTW5?plink=raXQ1R9pRNsCvvqG,Nita Prose,Lauren Ambrose,Length: 9 hrs and 37 mins,"Release date:
+                                    01-04-22","Language:
+                                      English","17,891 ratings"
+The Power of Now,https://www.audible.co.uk//pd/The-Power-of-Now-Audiobook/B002V0PN36?plink=0SDIuy6UzX0dVvUO,Eckhart Tolle,Eckhart Tolle,Length: 7 hrs and 37 mins,"Release date:
+                                    12-31-00","Language:
+                                      English","37,914 ratings"
+The End of the World Is Just the Beginning,https://www.audible.co.uk//pd/The-End-of-the-World-Is-Just-the-Beginning-Audiobook/B09CS5KBV1?plink=0SDIuy6UzX0dVvUO,Peter Zeihan,Peter Zeihan,Length: 16 hrs and 44 mins,"Release date:
+                                    06-14-22","Language:
+                                      English","4,804 ratings"
+Outlive,https://www.audible.co.uk//pd/Outlive-Audiobook/B0B6444XS3?plink=0SDIuy6UzX0dVvUO,Peter Attia MD,Peter Attia MD,Length: 17 hrs and 7 mins,"Release date:
+                                    03-28-23","Language:
+                                      English",Not rated yet
+Star Wars Jedi: Battle Scars,https://www.audible.co.uk//pd/Star-Wars-Jedi-Battle-Scars-Audiobook/B0B9TB4PKC?plink=0SDIuy6UzX0dVvUO,Sam Maggs,Sean Kenin Elias-Reyes,Length: 10 hrs and 28 mins,"Release date:
+                                    03-07-23","Language:
+                                      English",63 ratings
+The Alchemist,https://www.audible.co.uk//pd/The-Alchemist-Audiobook/B002V0Q4LG?plink=0SDIuy6UzX0dVvUO,Paulo Coelho,Jeremy Irons,Length: 4 hrs,"Release date:
                                     12-26-04","Language:
-                                      English","78,510 ratings","[<span class=""bc-text bc-size-base bc-color-base"">Regular price: </span>, <span class=""bc-text bc-size-base bc-color-base"">
-            $17.24
-        </span>, <span class=""bc-text bc-size-base bc-color-base"">Sale price:</span>]"
+                                      English","78,516 ratings"
+"Friends, Lovers, and the Big Terrible Thing",https://www.audible.co.uk//pd/Friends-Lovers-and-the-Big-Terrible-Thing-Audiobook/B09RQ4HRHN?plink=0SDIuy6UzX0dVvUO,Matthew Perry,Matthew Perry,Length: 8 hrs and 49 mins,"Release date:
+                                    11-01-22","Language:
+                                      English","16,106 ratings"
+House of Earth and Blood,https://www.audible.co.uk//pd/House-of-Earth-and-Blood-Audiobook/B082YHZPTY?plink=0SDIuy6UzX0dVvUO,Sarah J. Maas,Elizabeth Evans,Length: 27 hrs and 50 mins,"Release date:
+                                    03-03-20","Language:
+                                      English","21,247 ratings"
+Ugly Love,https://www.audible.co.uk//pd/Ugly-Love-Audiobook/B00LPQUNF0?plink=0SDIuy6UzX0dVvUO,Colleen Hoover,Grace Grant,Length: 9 hrs and 14 mins,"Release date:
+                                    08-05-14","Language:
+                                      English","26,777 ratings"
+Sapiens,https://www.audible.co.uk//pd/Sapiens-Audiobook/B0741G911Q?plink=0SDIuy6UzX0dVvUO,Yuval Noah Harari,Derek Perkins,Length: 15 hrs and 18 mins,"Release date:
+                                    08-15-17","Language:
+                                      English","53,155 ratings"
+The Hobbit,https://www.audible.co.uk//pd/The-Hobbit-Audiobook/1705009050?plink=0SDIuy6UzX0dVvUO,J. R. R. Tolkien,Andy Serkis,Length: 10 hrs and 25 mins,"Release date:
+                                    09-21-20","Language:
+                                      English","18,424 ratings"
+Horse,https://www.audible.co.uk//pd/Horse-Audiobook/B09HRCR8ZR?plink=0SDIuy6UzX0dVvUO,Geraldine Brooks,James Fouhey,Length: 14 hrs and 6 mins,"Release date:
+                                    06-14-22","Language:
+                                      English","3,658 ratings"
+Dare to Lead,https://www.audible.co.uk//pd/Dare-to-Lead-Audiobook/B07DJYBXNC?plink=0SDIuy6UzX0dVvUO,Brené Brown,Brené Brown,Length: 8 hrs and 10 mins,"Release date:
+                                    10-09-18","Language:
+                                      English","28,438 ratings"
+The Perfect Marriage,https://www.audible.co.uk//pd/The-Perfect-Marriage-Audiobook/1662045425?plink=0SDIuy6UzX0dVvUO,Jeneva Rose,Neil Hellegers,Length: 8 hrs and 52 mins,"Release date:
+                                    12-29-20","Language:
+                                      English","11,529 ratings"
+Becoming,https://www.audible.co.uk//pd/Becoming-Audiobook/B07B3BCZ9S?plink=0SDIuy6UzX0dVvUO,Michelle Obama,Michelle Obama,Length: 19 hrs and 3 mins,"Release date:
+                                    11-13-18","Language:
+                                      English","179,708 ratings"
+Born a Crime,https://www.audible.co.uk//pd/Born-a-Crime-Audiobook/B01IW9TQPK?plink=0SDIuy6UzX0dVvUO,Trevor Noah,Trevor Noah,Length: 8 hrs and 44 mins,"Release date:
+                                    11-15-16","Language:
+                                      English","209,335 ratings"
+The Five Love Languages: The Secret to Love That Lasts,https://www.audible.co.uk//pd/The-Five-Love-Languages-The-Secret-to-Love-That-Lasts-Audiobook/B002V0GGFK?plink=0SDIuy6UzX0dVvUO,Gary Chapman,Gary Chapman,Length: 4 hrs and 46 mins,"Release date:
+                                    12-26-04","Language:
+                                      English","41,142 ratings"
+Die with Zero,https://www.audible.co.uk//pd/Die-with-Zero-Audiobook/0358310369?plink=0SDIuy6UzX0dVvUO,Bill Perkins,Bill Perkins,Length: 5 hrs and 11 mins,"Release date:
+                                    07-28-20","Language:
+                                      English",335 ratings
+November 9,https://www.audible.co.uk//pd/November-9-Audiobook/B0176UVW1W?plink=0SDIuy6UzX0dVvUO,Colleen Hoover,Zachary Webber,Length: 9 hrs and 46 mins,"Release date:
+                                    11-10-15","Language:
+                                      English","20,924 ratings"
+Hell Divers X: Fallout,https://www.audible.co.uk//pd/Hell-Divers-X-Fallout-Audiobook/B0B61TJKTJ?plink=0SDIuy6UzX0dVvUO,Nicholas Sansbury Smith,R. C. Bray,Length: 12 hrs and 58 mins,"Release date:
+                                    02-28-23","Language:
+                                      English",275 ratings
+The Untethered Soul,https://www.audible.co.uk//pd/The-Untethered-Soul-Audiobook/B006IE4OY0?plink=0SDIuy6UzX0dVvUO,Michael A. Singer,Peter Berkrot,Length: 6 hrs and 11 mins,"Release date:
+                                    12-12-11","Language:
+                                      English","28,606 ratings"
